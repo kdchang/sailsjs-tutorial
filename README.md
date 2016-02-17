@@ -1,4 +1,4 @@
-# Sails.js Tutorial(正體中文版教學) v.0.12.0
+# Sails.js Tutorial (正體中文版教學) v.0.12.0
 Sails.js 是一個基於 Express 的 Node.js MVC 框架。
 
 參考文件(Reference)：
