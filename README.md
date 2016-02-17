@@ -1,2 +1,1 @@
-# sailsjs-tutorial
-# sailsjs-tutorial
+# Sails.js Tutorial
