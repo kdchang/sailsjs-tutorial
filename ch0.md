@@ -6,13 +6,16 @@
 		[若尚未安裝Node，請根據不同作業系統參考不同安裝方式](http://sailsjs.org/get-started)
 
 2. 安裝 Sails
+
 	```sudo npm -g install sails```
 
 3. 開新專案
-	sails new testProject
+
+	```sails new testProject```
 
 4. 運行伺服器
-	cd testProject
-	sails lift
+	```cd testProject```
+	
+	```sails lift```
 
 5. 打開瀏覽器，即可看到預設頁面：http://localhost:1337/
