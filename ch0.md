@@ -5,6 +5,8 @@
 1. 安裝 Node
 		[若尚未安裝Node，請根據不同作業系統參考不同安裝方式](http://sailsjs.org/get-started)
 
+		[或參考Node官網](https://nodejs.org/en/)
+
 2. 安裝 Sails
 
 	```sudo npm -g install sails```
@@ -13,10 +15,12 @@
 
 	```sails new testProject```
 
-4. 運行伺服器
+4. 移動到專案並運行伺服器
 
 	```cd testProject```
 
 	```sails lift```
 
 5. 打開瀏覽器，即可看到預設頁面：http://localhost:1337/
+
+6. 在 terminal 按下 ctrl + c 即可以終止伺服器
