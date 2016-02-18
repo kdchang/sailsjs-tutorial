@@ -1,4 +1,4 @@
-# Ch01 前置作業、環境設定
+# Ch0 前置作業、環境設定
 
 安裝 Node 及 Sails
 
@@ -14,8 +14,9 @@
 	```sails new testProject```
 
 4. 運行伺服器
+
 	```cd testProject```
-	
+
 	```sails lift```
 
 5. 打開瀏覽器，即可看到預設頁面：http://localhost:1337/
