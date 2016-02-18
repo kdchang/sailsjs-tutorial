@@ -3,7 +3,7 @@
 安裝 Node 及 Sails
 
 1. 安裝 Node
-	[若尚未安裝Node，請根據不同作業系統參考不同安裝方式](http://sailsjs.org/get-started)
+		[若尚未安裝Node，請根據不同作業系統參考不同安裝方式](http://sailsjs.org/get-started)
 
 2. 安裝 Sails
 	sudo npm -g install sails
