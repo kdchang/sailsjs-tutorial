@@ -5,6 +5,7 @@
 Sails.js 是一個基於 Express 的 Node.js MVC 框架。
 
 ##教學大綱(Agenda)
+0. 前置作業、環境設定
 1. Sails簡介
 2. 第一個 Sails App
 3. Model
