@@ -3,9 +3,10 @@
 安裝 Node 及 Sails
 
 1. 安裝 Node
-		[若尚未安裝Node，請根據不同作業系統參考不同安裝方式](http://sailsjs.org/get-started)
 
-		[或參考Node官網](https://nodejs.org/en/)
+	[若尚未安裝Node，請根據不同作業系統參考不同安裝方式](http://sailsjs.org/get-started)
+
+	[或參考Node官網](https://nodejs.org/en/)
 
 2. 安裝 Sails
 
