@@ -1,0 +1,10 @@
+<div class="align-center">
+    <h1>Sails TodoApp</h1>
+</div>
+<div class="container">
+    <form action="/todos/<%= todo[0].id %>/edit" method="post">
+        <input class="form-control" type="text" name="content" value="<%= todo[0].content %>"></input>
+        <br>
+        <button class="btn btn-primary btn-block" type="submit">編輯代辦事項</button>
+    </form>    
+</div>
