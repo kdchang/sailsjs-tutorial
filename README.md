@@ -28,6 +28,7 @@ Sails.js 是一個基於 Express 的 Node.js MVC 框架。
 11. [Sails.js 101 - GitBook](https://www.gitbook.com/book/onlinemad/sails-js-101/details)
 12. [Node Framework](http://nodeframework.com/)
 13. [Learning sails.js Video](https://www.youtube.com/playlist?list=PLLxyAuVpwujMQjlsF9l_qojC31m83NOCG)
+14. [Build a To-Do App Using Sails.js and AngularJS](https://scotch.io/tutorials/build-a-todo-app-using-sailsjs-and-angularjs)
 
 ##License
 MIT
