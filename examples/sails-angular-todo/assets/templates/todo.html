@@ -1,0 +1,26 @@
+<div class="container" ng-controller="TodoCtrl">
+    <div class="jumbotron">
+        <h1 align="center">Todo Application</h1>
+        <br>
+        <div id="todo-form" class="row">
+            <div class="col-sm-8 col-sm-offset-2 text-center">
+                <form>
+                    <div class="form-group">
+                        <input type="text" class="form-control input-lg text-center" placeholder="Add Todo!" ng-model="formData.content">
+                        <br>
+                        <button type="submit" class="btn btn-primary btn-lg" ng-click="addTodo()">Add Todo</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    <div>
+        <ul>
+            <li ng-repeat="(key, todo) in todos"><span ng-bind="todo.content"></span>
+                <button class="btn btn-primary" ng-click="getTodo(todo)"><i class="glyphicon glyphicon-pencil"></i></button>
+                <button class="btn btn-danger" ng-click="deleteTodo(todo)"><i class="glyphicon glyphicon-trash"></i></button>
+                <hr>
+            </li>
+        </ul>
+    </div>
+</div>

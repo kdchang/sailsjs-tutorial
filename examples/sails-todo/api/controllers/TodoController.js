@@ -36,9 +36,9 @@ module.exports = {
             res.redirect('/');
         })
     },
-    removeTodo: function(req, res) {
+    deleteTodo: function(req, res) {
         var todoId = (req.params.id) ? req.params.id : undefined;
-        TodoService.removeTodo(todoId, function(success) {
+        TodoService.deleteTodo(todoId, function(success) {
             res.redirect('/');
         });
     }

@@ -23,7 +23,7 @@ module.exports = {
 			next(todo);
         })
     },	
-	removeTodo: function(id, next) {
+	deleteTodo: function(id, next) {
 		Todo.destroy({id: id}).exec(function(err, todo) {
 			if(err) throw err;
 			next(todo);

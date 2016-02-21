@@ -54,7 +54,7 @@ module.exports.routes = {
 
     '/delete/:id': {
         controller: 'TodoController',
-        action: 'removeTodo'
+        action: 'deleteTodo'
     }
 
     /***************************************************************************
