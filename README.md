@@ -31,6 +31,7 @@ Sails.js 是一個基於 Express 的 Node.js MVC 框架。
 14. [Build a To-Do App Using Sails.js and AngularJS](https://scotch.io/tutorials/build-a-todo-app-using-sailsjs-and-angularjs)
 15. [Waterline, An adapter-based ORM for Node.js with support for mysql, mongo, postgres, redis, and more](https://github.com/balderdashy/waterline)
 16. [利用Sails.js+MongoDB开发博客系统](http://yoyoyohamapi.me/categories/%E5%88%A9%E7%94%A8Sails-js-MongoDB%E5%BC%80%E5%8F%91%E5%8D%9A%E5%AE%A2%E7%B3%BB%E7%BB%9F/)
+17. [Sails.js in Action](https://www.manning.com/books/sails-js-in-action)
 
 ##License
 MIT
