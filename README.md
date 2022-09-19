@@ -1,10 +1,10 @@
 # Sails.js Tutorial (正體中文版教學) 
 本正體中文教學為基於 Sails.js v.0.11.4 的入門教學，讓初學者可以快速使用 Sails 開發出有趣的 Web 應用。
 
-##關於Sails.js(About)
+## 關於Sails.js(About)
 Sails.js 是一個基於 Express 的 Node.js MVC 框架。
 
-##教學大綱(Agenda)
+## 教學大綱(Agenda)
 0. 前置作業、環境設定
 1. Sails簡介
 2. 第一個 Sails App
@@ -14,7 +14,7 @@ Sails.js 是一個基於 Express 的 Node.js MVC 框架。
 6. 資料庫管理
 7. Policy 
 
-##參考文件(Reference)：
+## 參考文件(Reference)：
 1. [How To Create an Node.js App Using Sails.js on an Ubuntu VPS](https://www.digitalocean.com/community/tutorials/how-to-create-an-node-js-app-using-sails-js-on-an-ubuntu-vps)
 2. [Sailing With Sails.js: An MVC-style Framework For Node.js](https://www.smashingmagazine.com/2015/11/sailing-sails-js-mvc-style-framework-node-js/)
 3. [Introduction to Sails.js](http://code.tutsplus.com/tutorials/introduction-to-sailsjs--net-35390)
@@ -33,5 +33,5 @@ Sails.js 是一個基於 Express 的 Node.js MVC 框架。
 16. [利用Sails.js+MongoDB开发博客系统](http://yoyoyohamapi.me/categories/%E5%88%A9%E7%94%A8Sails-js-MongoDB%E5%BC%80%E5%8F%91%E5%8D%9A%E5%AE%A2%E7%B3%BB%E7%BB%9F/)
 17. [Sails.js in Action](https://www.manning.com/books/sails-js-in-action)
 
-##License
+## License
 MIT
